@@ -1,0 +1,32 @@
+.converter {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 200px;
+  height: 130px;
+  top: 50%;
+  left: 50%;
+  margin-top: -75px;
+  margin-left: -100px;
+}
+
+.hex-container,
+.rgb-container {
+  height: calc(50% - 3px);
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  font-size: 22px;
+  text-align: center;
+}
+
+.hex-container {
+  background-color: #fff;
+}
+
+.rgb-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+}

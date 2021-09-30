@@ -1,1 +1,2 @@
-# ra-forms-hex2rgb
+# ra-forms-hex2rgb [![Build status](https://ci.appveyor.com/api/projects/status/ka9oo4a4l32jw5bt?svg=true)](https://ci.appveyor.com/project/barsich/ra-forms-hex2rgb)
+[GithubPages](https://barsich.github.io/ra-forms-hex2rgb/)
